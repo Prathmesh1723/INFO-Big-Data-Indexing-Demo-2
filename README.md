@@ -15,4 +15,7 @@ Prototype Demo 1
 
 Develop a Spring Boot based REST API to parse a given sample JSON schema.
 Save the JSON schema in a redis key value store.
-Demonstrate the use of operations like GET, POST and DELETE for the first prototype demo.
+Demonstrate the use of operations like 
+GET, 
+POST 
+and DELETE for the first prototype demo.
